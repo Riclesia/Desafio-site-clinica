@@ -1,0 +1,279 @@
+<!-- Página Inicial -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clínica Psiquiátrica - Página Inicial</title>
+  <style>
+    body {
+      background-color: #e6ffe6;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #007acc;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    nav {
+      background-color: #0099e6;
+      padding: 10px;
+      text-align: center;
+    }
+    
+    nav a {
+      color: white;
+      padding: 10px;
+      text-decoration: none;
+    }
+    
+    nav a:hover {
+      background-color: #007acc;
+    }
+    
+    main {
+      padding: 20px;
+    }
+    
+    footer {
+      background-color: #007acc;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Clínica Psiquiátrica</h1>
+  </header>
+  
+  <nav>
+    <a href="index.html">Página Inicial</a>
+    <a href="sobre.html">Sobre</a>
+    <a href="servicos.html">Serviços</a>
+    <a href="contato.html">Contato</a>
+  </nav>
+  
+  <main>
+    <h2>Bem-vindo à Clínica Psiquiátrica</h2>
+    <p>Este é o conteúdo da página inicial da clínica.</p>
+  </main>
+  
+  <footer>
+    <p>&copy; 2024 Clínica Psiquiátrica. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
+<!-- Página Sobre -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clínica Psiquiátrica - Sobre</title>
+  <style>
+    body {
+      background-color: #e6ffe6;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #007acc;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    nav {
+      background-color: #0099e6;
+      padding: 10px;
+      text-align: center;
+    }
+    
+    nav a {
+      color: white;
+      padding: 10px;
+      text-decoration: none;
+    }
+    
+    nav a:hover {
+      background-color: #007acc;
+    }
+    
+    main {
+      padding: 20px;
+    }
+    
+    footer {
+      background-color: #007acc;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Clínica Psiquiátrica</h1>
+  </header>
+  
+  <nav>
+    <a href="index.html">Página Inicial</a>
+    <a href="sobre.html">Sobre</a>
+    <a href="servicos.html">Serviços</a>
+    <a href="contato.html">Contato</a>
+  </nav>
+  
+  <main>
+    <h2>Sobre a Clínica</h2>
+    <p>Este é o conteúdo da página "Sobre" da clínica.</p>
+  </main>
+  
+  <footer>
+    <p>&copy; 2024 Clínica Psiquiátrica. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
+<!-- Página Serviços -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clínica Psiquiátrica - Serviços</title>
+  <style>
+    body {
+      background-color: #e6ffe6;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #007acc;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    nav {
+      background-color: #0099e6;
+      padding: 10px;
+      text-align: center;
+    }
+    
+    nav a {
+      color: white;
+      padding: 10px;
+      text-decoration: none;
+    }
+    
+    nav a:hover {
+      background-color: #007acc;
+    }
+    
+    main {
+      padding: 20px;
+    }
+    
+    footer {
+      background-color: #007acc;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Clínica Psiquiátrica</h1>
+  </header>
+  
+  <nav>
+    <a href="index.html">Página Inicial</a>
+    <a href="sobre.html">Sobre</a>
+    <a href="servicos.html">Serviços</a>
+    <a href="contato.html">Contato</a>
+  </nav>
+  
+  <main>
+    <h2>Nossos Serviços</h2>
+    <p>Este é o conteúdo da página "Serviços" da clínica.</p>
+  </main>
+  
+  <footer>
+    <p>&copy; 2024 Clínica Psiquiátrica. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
+<!-- Página Contato -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clínica Psiquiátrica - Contato</title>
+  <style>
+    body {
+      background-color: #e6ffe6;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #007acc;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    nav {
+      background-color: #0099e6;
+      padding: 10px;
+      text-align: center;
+    }
+    
+    nav a {
+      color: white;
+      padding: 10px;
+      text-decoration: none;
+    }
+    
+    nav a:hover {
+      background-color: #007acc;
+    }
+    
+    main {
+      padding: 20px;
+    }
+    
+    footer {
+      background-color: #007acc;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Clínica Psiquiátrica</h1>
+  </header>
+  
+  <nav>
+    <a href="index.html">Página Inicial</a>
+    <a href="sobre.html">Sobre</a>
+    <a href="servicos.html">Serviços</a>
+    <a href="contato.html">Contato</a>
+  </nav>
+  
+  <main>
+    <h2>Entre em Contato</h2>
+    <p>Este é o conteúdo da página "Contato" da clínica.</p>
+  </main>
+  
+  <footer>
